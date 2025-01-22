@@ -6,7 +6,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammadsumamakhan?tab=repositories](https://github.com/muhammadsumamakhan?tab=repositories)
 
-- 💬 Ask me about **I’m always excited to collaborate on innovative AI projects and contribute to open-source frontend development. Currently, I’m seeking opportunities to deepen my expertise in advanced MERN stack projects and .NET development to further enhance my skill set. My current focus is on mastering .NET Core, ASP.NET Core, and the MERN Stack, constantly pushing the boundaries of what I can achieve. If you’d like to dive into discussions on React.js, Next.js, or solve challenging technical problems, don’t hesitate to connect — I’m always happy to share insights and collaborate!**
+- 💬 Ask me about **'m a Final-year Computer Engineering student at Sir Syed University of Engineering and Technology, with a strong passion for Full-Stack Development. I have hands-on experience in building scalable and real-world software solutions using the following technologies:
+
+Frontend: HTML, CSS, JavaScript, React.js, Next.js
+Backend: Node.js, Express.js, C#, ASP.NET Core
+Databases: MongoDB, MS SQL Server
+Other Skills: Git/GitHub, Firebase, Tailwind CSS
+
+💡 I’m eager to contribute my skills to impactful projects and explore new challenges through an internship opportunity.**
 
 - 📫 How to reach me **sumamak33@gmail.com**
 
