@@ -32,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsumamakhan&show_icons=true&locale=en&layout=compact" alt="muhammadsumamakhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadsumamakhan&show_icons=true&locale=en" alt="muhammadsumamakhan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsumamakhan&" alt="muhammadsumamakhan" /></p>
