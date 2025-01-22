@@ -8,10 +8,10 @@
 
 - 💬 Ask me about **'m a Final-year Computer Engineering student at Sir Syed University of Engineering and Technology, with a strong passion for Full-Stack Development. I have hands-on experience in building scalable and real-world software solutions using the following technologies:
 
-Frontend: HTML, CSS, JavaScript, React.js, Next.js
-Backend: Node.js, Express.js, C#, ASP.NET Core
-Databases: MongoDB, MS SQL Server
-Other Skills: Git/GitHub, Firebase, Tailwind CSS
+- Frontend: HTML, CSS, JavaScript, React.js, Next.js
+- Backend: Node.js, Express.js, C#, ASP.NET Core
+- Databases: MongoDB, MS SQL Server
+- Other Skills: Git/GitHub, Firebase, Tailwind CSS
 
 💡 I’m eager to contribute my skills to impactful projects and explore new challenges through an internship opportunity.**
 
