@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammadsumamakhan?tab=repositories](https://github.com/muhammadsumamakhan?tab=repositories)
 
-- 💬 Ask me about **'m a Final-year Computer Engineering student at Sir Syed University of Engineering and Technology, with a strong passion for Full-Stack Development. I have hands-on experience in building scalable and real-world software solutions using the following technologies:
+- 💬 Ask me about **I'm a Final-year Computer Engineering student at Sir Syed University of Engineering and Technology, with a strong passion for Full-Stack Development. I have hands-on experience in building scalable and real-world software solutions using the following technologies:
 
 - Frontend: HTML, CSS, JavaScript, React.js, Next.js
 - Backend: Node.js, Express.js, C#, ASP.NET Core
