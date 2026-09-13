@@ -115,7 +115,6 @@ fun_fact: "I genuinely believe debugging is more fun than coding!"
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **Sumama-Portfolio & CMS** | Modern developer portfolio with dynamic Admin CMS, SQLite persistence & JWT auth. | `React` `Express.js` `SQLite` `Node.js` | [Code](https://github.com/muhammadsumamakhan/Sumama-Portfolio) • [Demo](https://final-year-project-cyan-seven.vercel.app/) |
 | **Online Computer Repair Service** | Peer-to-peer expert platform with booking, video calls, dashboards & payments. | `React` `Tailwind` `Firebase` `WebRTC` | [Code](https://github.com/muhammadsumamakhan) • [Demo](https://final-year-project-cyan-seven.vercel.app/) |
 | **Full Stack MERN Todo App** | Production-ready task manager with full CRUD operations and MongoDB cloud storage. | `MongoDB` `Express` `React` `Node.js` | [Code](https://github.com/muhammadsumamakhan/Full-Stack-MERN-Todo-App-) • [Demo](https://full-stack-mern-todo-app.vercel.app/) |
 | **E-Commerce Store** | Responsive shopping app featuring shopping cart, dynamic state & catalog filters. | `React` `Redux Toolkit` `Material UI` | [Code](https://github.com/muhammadsumamakhan/E-commerce-Store-with-React-Redux-Toolkit-and-Material-UI) • [Demo](https://e-commerce-store-react-redux.vercel.app/) |
